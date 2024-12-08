@@ -1,0 +1,12 @@
+{
+  "name": "type-script",
+  "version": "1.0.0",
+  "description": "I'm learning Type-script",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
